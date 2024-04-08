@@ -9,6 +9,7 @@ In the program I created, I made a simple class with those three methods describ
 after using adding or removing methods. I used a while loop to engage with the user in the console. 
 
 Screenshots :
+
 ADDING/COUNTING
 
 ![image](https://github.com/otis425/CS260/assets/71042122/0961636c-4ae0-4555-b8b7-4406e23b810c)
