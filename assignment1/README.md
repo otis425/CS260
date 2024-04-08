@@ -12,6 +12,7 @@ Screenshots :
 ADDING/COUNTING
 
 ![image](https://github.com/otis425/CS260/assets/71042122/0961636c-4ae0-4555-b8b7-4406e23b810c)
+
 REMOVING/COUNTING
 
 ![image](https://github.com/otis425/CS260/assets/71042122/c406f182-f9de-4897-92bf-307e5d758a2d)
