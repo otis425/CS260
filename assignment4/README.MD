@@ -14,3 +14,6 @@ PROOF OF REQUIREMENTS :
 
 1. Add function 
   a. inputs/outputs
+![addinput](/images/addinput)
+
+
