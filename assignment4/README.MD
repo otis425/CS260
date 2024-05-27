@@ -13,8 +13,21 @@ Create a linked-list that allows:
 PROOF OF REQUIREMENTS :
 
 1. Add function 
-  a. inputs/outputs
+
 ![addinput](https://github.com/otis425/CS260/blob/main/assignment4/images/addinput.png)
 ![addoutput](https://github.com/otis425/CS260/blob/main/assignment4/images/addoutput.png)
+![addcode](https://github.com/otis425/CS260/blob/main/assignment4/images/addcode.png)
+
+2. Remove function
+
+![removeinput](https://github.com/otis425/CS260/blob/main/assignment4/images/removeinput.png)
+![removeoutput](https://github.com/otis425/CS260/blob/main/assignment4/images/removeoutput.png)
+![removecode](https://github.com/otis425/CS260/blob/main/assignment4/images/removecode.png)
+
+3. Get function
+
+![getinput](https://github.com/otis425/CS260/blob/main/assignment4/images/retrieveinput.png)
+![getoutput](https://github.com/otis425/CS260/blob/main/assignment4/images/retrieveoutput.png)
+![getcode](https://github.com/otis425/CS260/blob/main/assignment4/images/retrievecode.png)
 
 
