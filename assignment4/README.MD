@@ -14,6 +14,7 @@ PROOF OF REQUIREMENTS :
 
 1. Add function 
   a. inputs/outputs
-![addinput](/images/addinput)
+![addinput](https://github.com/otis425/CS260/blob/main/assignment4/images/addinput.png)
+![addoutput](https://github.com/otis425/CS260/blob/main/assignment4/images/addoutput.png)
 
 
