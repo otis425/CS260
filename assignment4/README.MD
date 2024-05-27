@@ -7,7 +7,7 @@ Create a linked-list that allows:
 2.a remove function that takes a position and removes the value stored at that position of the list and returns it
 (example: myList.remove(somePosition) )
 
-3. a get function that takes a position and returns that value without removing it
+3.get function that takes a position and returns that value without removing it
 (example: myList.get(somePosition) )
 
 PROOF OF REQUIREMENTS :
