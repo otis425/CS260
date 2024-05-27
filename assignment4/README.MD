@@ -27,7 +27,7 @@ PROOF OF REQUIREMENTS :
 3. Get function
 
 ![getinput](https://github.com/otis425/CS260/blob/main/assignment4/images/retrieveinput.png)
-![getoutput](https://github.com/otis425/CS260/blob/main/assignment4/images/retrieveoutput.png)
+![getoutput](https://github.com/otis425/CS260/blob/main/assignment4/images/retrieveoutputs.png)
 ![getcode](https://github.com/otis425/CS260/blob/main/assignment4/images/retrievecode.png)
 
 
