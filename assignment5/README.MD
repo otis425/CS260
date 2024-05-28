@@ -21,6 +21,7 @@ Create an array-based list or a linked-list (and a bonus for attempting both) th
 - BIG O COMPLEXITY
 
 Adding : min - O(1) max - O(n)
+
 Removing : min - O(1) max - O(n)
 
 Because I created a linked list, I believe this (complexity) is the best I can do, with the amount of code I have.
