@@ -17,3 +17,10 @@ Create an array-based list or a linked-list (and a bonus for attempting both) th
 ![removeinput](https://github.com/otis425/CS260/blob/main/assignment5/images_assign5/removeinputs.png)
 ![removeoutput](https://github.com/otis425/CS260/blob/main/assignment5/images_assign5/removeoutput.png)
 ![removecode](https://github.com/otis425/CS260/blob/main/assignment5/images_assign5/removecode.png)
+
+- BIG O COMPLEXITY
+
+Adding : min - O(1) max - O(n)
+Removing : min - O(1) max - O(n)
+
+Because I created a linked list, I believe this (complexity) is the best I can do, with the amount of code I have.
