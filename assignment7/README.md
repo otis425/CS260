@@ -1,5 +1,5 @@
 ![Static Badge](https://img.shields.io/badge/Version-1.0-white)
-## Assignment Requirements
+## Assignment 7 Requirements
 ### Design:
  - Create a design illustrating how data can be stored in a hash table and the problems it can solve.
 
