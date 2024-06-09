@@ -30,7 +30,7 @@
 
   ### TESTS
 <details>
-  <summary> Tests </summary>
+  <summary> show </summary>
   
 ``` c++
 // Graph
@@ -69,7 +69,7 @@
 ### Graph Struct
 #### ADDING VERTICES
 <details>
-  <summary>ADD VERTEX</summary>
+  <summary>show</summary>
   
 Code -
 ```c++
@@ -118,7 +118,7 @@ Outputs -
 #### ADDING EDGES
 
 <details>
-  <summary>ADD EDGE</summary>
+  <summary>show</summary>
   
 Code -
 ```c++
@@ -172,7 +172,7 @@ Outputs -
 #### SHORTEST MINIMUM PATH
 
 <details>
-  <summary>Shortest Minimum Path</summary>
+  <summary>show</summary>
   
 Code -
 ```c++
@@ -235,7 +235,7 @@ Outputs -
 #### MINIMUM SPANNING TREE
 
 <details>
-  <summary>Minimum Spanning Tree</summary>
+  <summary>show</summary>
   
 Code -
 ```c++
@@ -292,6 +292,14 @@ Inputs -
     graph mst = g.min_spanning_tree();
     mst.print_vertices();
 ```
+
+## Complexity
+
+<details>
+  <summary>show</summary>
+
+  </details>
+  
 Outputs -
 
 ![image](https://github.com/otis425/CS260/assets/71042122/0128c2a3-f459-4ffb-97f5-2402a95eeaa8)
