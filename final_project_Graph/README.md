@@ -68,6 +68,9 @@
 
 ### Graph Struct
 #### ADDING VERTICES
+<details>
+  <summary>ADD VERTEX</summary>
+  
 Code -
 ```c++
 void add_vertex() {
@@ -110,7 +113,13 @@ Outputs -
 
 ![image](https://github.com/otis425/CS260/assets/71042122/543cb46f-a54d-41f6-a291-9075173eee01)
 
+</details>
+
 #### ADDING EDGES
+
+<details>
+  <summary>ADD EDGE</summary>
+  
 Code -
 ```c++
 void add_edge(int from, int to, int weight) {
@@ -158,7 +167,13 @@ Outputs -
 
 ![image](https://github.com/otis425/CS260/assets/71042122/947229ad-f836-4019-901f-14accc43704a)
 
+</details>
+
 #### SHORTEST MINIMUM PATH
+
+<details>
+  <summary>Shortest Minimum Path</summary>
+  
 Code -
 ```c++
 int min_distance(int start, int end){
@@ -215,7 +230,13 @@ Outputs -
 
 ![image](https://github.com/otis425/CS260/assets/71042122/69783284-a53d-4843-a9ff-f486d981d9c1)
 
+</details>
+
 #### MINIMUM SPANNING TREE
+
+<details>
+  <summary>Minimum Spanning Tree</summary>
+  
 Code -
 ```c++
 graph min_spanning_tree() {
@@ -274,3 +295,5 @@ Inputs -
 Outputs -
 
 ![image](https://github.com/otis425/CS260/assets/71042122/0128c2a3-f459-4ffb-97f5-2402a95eeaa8)
+
+</details>
