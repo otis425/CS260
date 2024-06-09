@@ -66,7 +66,7 @@
 
 </details>
 
-### Graph Struct
+### _ Graph Struct _
 #### ADDING VERTICES
 <details>
   <summary>show</summary>
@@ -292,16 +292,15 @@ Inputs -
     graph mst = g.min_spanning_tree();
     mst.print_vertices();
 ```
-
-## Complexity
-
-<details>
-  <summary>show</summary>
-
-  </details>
-  
 Outputs -
 
 ![image](https://github.com/otis425/CS260/assets/71042122/0128c2a3-f459-4ffb-97f5-2402a95eeaa8)
 
 </details>
+
+## Complexity
+**Add Vertex** is O(V), because it reassigns all vertices into a new array, this is to maintain easy retrieval for more complicated functions
+**Add Edge** is best O(1) and worst O(n), this function has to travel down a linked list of edges for each vertex on either side.
+**Min Distance Between** is O(V^2). This is Djikstra's algorithm, and Big O is calculated as that. V being vertices
+**Minimum Spanning Tree** is O(ElogV). This algorithm is Primm's Algorithm, and has been calculated as that. E - edges, V - vertices.
+
